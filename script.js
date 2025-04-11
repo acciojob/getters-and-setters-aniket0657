@@ -1,4 +1,3 @@
-// Base Person class
 class Person {
   constructor(name, age) {
     this._name = name;
